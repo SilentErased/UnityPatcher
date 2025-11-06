@@ -32,3 +32,6 @@ Improved & Maintained by:
 ## 💴 Support Me
 
 💠 **TON:** [`UQByUL386yk27JU-74w2mBpfyjc8-c7IWk32IEkqGaRd-P5G`](https://tonviewer.com/UQByUL386yk27JU-74w2mBpfyjc8-c7IWk32IEkqGaRd-P5G)
+</td>
+</tr>
+</table>
