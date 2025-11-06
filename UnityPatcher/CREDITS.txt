@@ -1,0 +1,10 @@
+=== Credits ===
+
+Original Project:
+  • pubertcs (Discord) — Made Original version
+
+ModLoader Used:
+  • Livku2 — ModLoader (https://github.com/Livku2/ModLoader)
+
+Improved & Maintained by:
+  • SilentErased — Fixed bugs, optimized stability, new design, etc
