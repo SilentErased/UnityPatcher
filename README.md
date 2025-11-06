@@ -1,6 +1,6 @@
 # Unity IL2CPP Patcher
 
-> [!WARNING]
+> [!IMPORTANT]
 > This patcher only supports **native mods (`.so` files)**. Managed C# mods are not supported.
 
 A tool designed for patching Unity IL2CPP games.
