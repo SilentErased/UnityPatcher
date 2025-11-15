@@ -1,9 +1,5 @@
-<table>
-<tr>
-<td width="325">
+
 <img src="program.png" alt="Program" width="325"/>
-</td>
-<td>
 
 # Unity IL2CPP Patcher
 
